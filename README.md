@@ -19,7 +19,7 @@ Setup
 
 我在Mac Os X上使用Python 2.7.2, Linux应该也没问题:)
 
-我假定你已经安装好了python和[pip](http://www.pip-installer.org/en/latest/, "Pip")
+我假定你已经安装好了python和[pip](http://www.pip-installer.org/en/latest/ "Pip")
 
 
 1. 安装依赖:
